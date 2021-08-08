@@ -1,0 +1,7 @@
+# www.robotstxt.org/
+# A robots.txt file tells search engine crawlers which URLs the crawler can access on your site
+# https://developers.google.com/search/docs/advanced/robots/intro
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
