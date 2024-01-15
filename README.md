@@ -26,6 +26,22 @@ unzip masterkit*.zip
 ```
 * Clone the git repo - git clone https://github.com/Web-Master-2000/Master-Kit.git - and checkout the tagged [release](https://github.com/Web-Master-2000/Master-Kit/releases) you'd like to use.
 
+## Includes
+**Bulma:**
+Bulma is a modern and flexible CSS framework. Known for its lightweight nature and ease of use, Bulma adopts a mobile-first approach. It operates on a component-based structure, allowing easy integration of elements needed in projects.
+
+**Materialize:**
+Materialize is a CSS framework based on Google's Material Design concept. It offers a modern design using colorful, flat lines, and shadows. Mobile-friendly and user-friendly, Materialize is supported by a large community.
+
+**UI Kit:**
+UI Kit is a lightweight and modular CSS framework. Its primary purpose is to provide useful and stylish interface elements for web projects. The ability to easily customize components makes UI Kit a preferred option.
+
+**Bootstrap:**
+Bootstrap is a widely popular CSS framework developed by Twitter. It is known for its responsive design, grid system, ready-made components, and extensive community support. Its detailed documentation makes it suitable for developers at all levels.
+
+**Skeleton:**
+Skeleton is a lightweight and basic CSS framework. It is only 400 bytes in size, making it ideal for minimalist designs. Often used for small projects or learning purposes, Skeleton includes only fundamental building blocks, allowing you to add the desired features to your project.
+
 ## Features
 
 * Simple and Responsive HTML Page
